@@ -1,0 +1,7 @@
+#Tue Sep 27 23:42:27 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_991f0618e9ab6438e9823ad7de8f0f95f59c3ecf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5d638f8ae0ea07bee25a69cbbd38999e90d06cd/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5d638f8ae0ea07bee25a69cbbd38999e90d06cd
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_991f0618e9ab6438e9823ad7de8f0f95f59c3ecf/classes.dex

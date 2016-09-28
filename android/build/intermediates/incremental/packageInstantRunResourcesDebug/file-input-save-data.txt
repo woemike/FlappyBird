@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Sep 27 23:42:16 BST 2016
+2.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/res/resources-debug.ap_
+5.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/res/resources-debug.ap_
+6.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug/bird2.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug
+7.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug/toptube.png
+7.set=ASSET
+count=9
+0.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug/gameover.png
+5.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/res/resources-debug.ap_
+8.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug/bird.png
+4.set=ASSET
+6.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug
+1.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug/bg.png
+1.set=ASSET
+7.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug
+2.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ASSET
+0.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug
+8.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug
+3.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug
+4.file=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/assets/debug/bottomtube.png
+8.set=ASSET
+0.set=ASSET

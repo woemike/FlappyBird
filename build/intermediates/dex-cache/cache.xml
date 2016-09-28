@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d60c6609201e20ccdb4ade8987fed54ed855a0b6">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_991f0618e9ab6438e9823ad7de8f0f95f59c3ecf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JohnMike/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.6.5_4e91162a0d72058ca7be4915d769798b3ea212c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.6.5_4e91162a0d72058ca7be4915d769798b3ea212c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/d81b49d6bc9aa29518fcaa7db9474fe7405fa324/gdx-box2d-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d81b49d6bc9aa29518fcaa7db9474fe7405fa324">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.6.5_4ac50a681573c4e63479a752b3984486bf3dc88e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.5/47d6744474ff276a8f92e92d22d7c956f5c832f0/gdx-backend-android-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="47d6744474ff276a8f92e92d22d7c956f5c832f0">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.6.5_2d748a4a2fa7273822c39a603493a03778b8abeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9484e935fc70f633b1e92b5cbfb18ac2a57f8676">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_991f0618e9ab6438e9823ad7de8f0f95f59c3ecf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JohnMike/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.5/47d6744474ff276a8f92e92d22d7c956f5c832f0/gdx-backend-android-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="47d6744474ff276a8f92e92d22d7c956f5c832f0">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.6.5_2d748a4a2fa7273822c39a603493a03778b8abeb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JohnMike/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/d81b49d6bc9aa29518fcaa7db9474fe7405fa324/gdx-box2d-1.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d81b49d6bc9aa29518fcaa7db9474fe7405fa324">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.6.5_4ac50a681573c4e63479a752b3984486bf3dc88e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c1c72bdb6661647301ed56b29192d761abb508b">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5d638f8ae0ea07bee25a69cbbd38999e90d06cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="02dce3c34ec8d50e8bc04ef06257c266eb7d4210">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/FlappyBird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d5d638f8ae0ea07bee25a69cbbd38999e90d06cd/classes.dex" />
+    </item>
+
+</items>
